@@ -4,12 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CarBook.Domain.Entities
+namespace CarBook.Application.Features.CQRS.Results.CategoryResults
 {
-    public class Feature
+    public class GetCategoryQueryResult
     {
-        public int FeatureID { get; set; }
+        public int CategoryID { get; set; }
         public string Name { get; set; }
-        public List<CarFeature> CarFeatures { get; set; }
     }
 }
