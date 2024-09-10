@@ -5,17 +5,17 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{ED1C00BB-ECFE-4606-AE3B-7EFFBE0F24E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarBook.Domain", "CarBook.Domain\CarBook.Domain.csproj", "{AD41A9B9-F310-4D9A-93C4-F63C0222F9C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarBook.Domain", "CarBook.Domain\CarBook.Domain.csproj", "{AD41A9B9-F310-4D9A-93C4-F63C0222F9C9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{FEEFD381-0CFE-4887-85E2-99289F4DDEB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarBook.Persistance", "CarBook.Persistance\CarBook.Persistance.csproj", "{1F9DDCB4-7BE8-406A-BA58-EFF01923578C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarBook.Persistance", "CarBook.Persistance\CarBook.Persistance.csproj", "{1F9DDCB4-7BE8-406A-BA58-EFF01923578C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{926FD81C-5E6F-4DE2-9D96-21B297E0CD4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarBook.API", "CarBook.API\CarBook.API.csproj", "{3FD3AB0C-11B5-4979-B8E9-5CDB3A965061}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarBook.API", "CarBook.API\CarBook.API.csproj", "{3FD3AB0C-11B5-4979-B8E9-5CDB3A965061}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarBook.Application", "Application\CarBook.Application.csproj", "{6DA3092B-D109-47C5-8657-82F37EFDBFFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarBook.Application", "Application\CarBook.Application.csproj", "{6DA3092B-D109-47C5-8657-82F37EFDBFFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
