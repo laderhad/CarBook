@@ -15,4 +15,11 @@
     <ProjectReference Include="..\CarBook.Domain\CarBook.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\Mediator\Commands\ServiceCommands\" />
+    <Folder Include="Features\Mediator\Handlers\ServiceHandlers\" />
+    <Folder Include="Features\Mediator\Queries\ServiceQueries\" />
+    <Folder Include="Features\Mediator\Results\ServiceResults\" />
+  </ItemGroup>
+
 </Project>
